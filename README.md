@@ -102,4 +102,20 @@
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=MongoDB&message=Database&label=MongoDB&color=50AE3F"
         alt="MongoDB">
 </div>
-
+### 📈 Statistics
+<br />
+<div align="center">
+<span>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dipeshrajput&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width="400px"/>
+</span>
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=dipeshrajput&show_icons=true&theme=react" width="400px" alt="Stats image">
+</span>
+<span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshrajput&theme=react&layout=compact" width="400px" alt="Language stats image">
+</span>
+<span>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dipeshrajput&theme=react&layout=compact" width="400px" alt="WakaTime stats image"> 
+</span>
+<img src="https://activity-graph.herokuapp.com/graph?username=dipeshrajput&theme=react-dark" alt="Contribution graph image"/>
+</div>
