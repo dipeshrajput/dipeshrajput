@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25"> Hello, This is Dipesh Singh Rajput </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25"> Hello, This is Dipesh</h3>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive%20Coder;Blockchain%20Enthusiast;Web%20and%20Android%20Developer;&center=true&width=380&height=45" alt="description animated text" width="100%"/>
 </div>
